@@ -16,3 +16,4 @@ Message.create(body: "New message", user: User.last)
 Message.create(body: "Random text", user: User.first)
 Message.create(body: "Message", user: User.last)
 Message.create(body: "Test message", user: User.first)
+
